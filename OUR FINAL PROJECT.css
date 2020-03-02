@@ -1,0 +1,94 @@
+.header{
+    text-align:center;
+      background:pink;
+      width: 50%;
+      margin-left: 310px;
+      position: relative; 
+      margin-bottom:-3%;
+      list-style-type: none;
+  }
+
+  .image{
+    position: relative;  
+    width: 150px;
+    height:150px;
+    margin-right:900px;
+}
+.fix{
+  background-color: rgb(220, 211, 228);
+  position: fixed;
+  width: 100%;
+  list-style-type: none;
+  margin-top: -0.5cm;
+}
+body{
+  background-image: url(https://image.freepik.com/free-photo/beautiful-clouds-blue-sky-background_34251-117.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bar{
+  color:red;
+  background-color:yellow;
+  text-align:center;
+  font-style:fantasy;
+  list-style-type:none;
+  font-size:30px;
+  margin-bottom:10px;
+  position:relative;
+  text-decoration: none;
+  width: 50%;
+  text-align: center;
+  margin-left: 300px;
+  border: none;
+  border-bottom: none;
+  
+}
+.size{
+  width: 50px;
+}
+li{
+  display:inline;
+  text-decoration: none;
+}
+.button{
+  background-color: blue;
+}
+.parag{
+  margin-left: 600px;
+  border: rgb(94, 76, 175);
+  
+}
+
+.aha{
+  margin-top: 270px;
+}
+.writing{
+  margin-top: -270px;
+}
+.space{
+  margin-right: 120px;
+  text-decoration: none;
+}
+  .body{
+background:grey;
+  }
+
+  .nice {
+    margin-top:-3.5cm;
+    margin-left:40%;
+    
+  }
+  .wow {
+    margin-top: -3cm;
+    margin-left: 68%;
+  }
+  .great {
+    margin-top:1cm;
+  }
+  .footer {
+    background-color: grey;
+   
+  }
+  .no {
+    color:white;
+  }
